@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchereSteinPapier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81694dba5daa9392cf54b7830adbfad5b8eeb85")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchereSteinPapier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchereSteinPapier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
